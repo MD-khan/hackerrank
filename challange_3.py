@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-from ntpath import join
+
 
 
 if __name__ == '__main__':
