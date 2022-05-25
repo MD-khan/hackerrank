@@ -26,4 +26,4 @@ def printList(head):
 
 
 
-printList(c)
+printList(a)
